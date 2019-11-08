@@ -1,3 +1,4 @@
+"""Aegis Models"""
 import logging
 import os
 
